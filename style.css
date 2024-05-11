@@ -1,0 +1,174 @@
+.ota {
+  display: flex;
+  justify-content: center;
+  font-size: 48px;
+  gap: 50px;
+  padding: 20px;
+}
+.box1 {
+  display: flex;
+  background-color: greenyellow;
+  height: 150px;
+  width: 400px;
+  border-radius: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.box2 {
+  display: flex;
+  background-color: rgb(65, 196, 248);
+  height: 150px;
+  width: 400px;
+  border-radius: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.box3 {
+  display: flex;
+  background-color: rgb(233, 70, 44);
+  height: 150px;
+  width: 400px;
+  border-radius: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.ona {
+  display: flex;
+  justify-content: center;
+  font-size: 48px;
+  gap: 50px;
+  padding: 20px;
+}
+.box4 {
+  display: flex;
+  background-color: greenyellow;
+  height: 150px;
+  width: 600px;
+  border-radius: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.box5 {
+  display: flex;
+  background-color: rgb(65, 196, 248);
+  height: 150px;
+  width: 300px;
+  border-radius: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.box6 {
+  display: flex;
+  background-color: rgb(233, 70, 44);
+  height: 150px;
+  width: 300px;
+  border-radius: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.box7 {
+  display: flex;
+  background-color: greenyellow;
+  height: 150px;
+  width: 250px;
+  border-radius: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.box8 {
+  display: flex;
+  background-color: rgb(65, 196, 248);
+  height: 150px;
+  width: 700px;
+  border-radius: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.box9 {
+  display: flex;
+  background-color: rgb(233, 70, 44);
+  height: 150px;
+  width: 250px;
+  border-radius: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.aka {
+  display: flex;
+  justify-content: center;
+  font-size: 48px;
+  gap: 50px;
+  padding: 20px;
+}
+.uka {
+  display: flex;
+  justify-content: center;
+  font-size: 48px;
+  gap: 50px;
+  padding: 20px;
+}
+.box10 {
+  display: flex;
+  background-color: greenyellow;
+  height: 150px;
+  width: 625px;
+  border-radius: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.box11 {
+  display: flex;
+  background-color: rgb(65, 196, 248);
+  height: 150px;
+  width: 625px;
+  border-radius: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.sin {
+  display: flex;
+  justify-content: center;
+  font-size: 48px;
+  gap: 50px;
+  padding: 20px;
+}
+.box12{
+  display: flex;
+  background-color: greenyellow;
+  height: 150px;
+  width: 285px;
+  border-radius: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.box13{
+  display: flex;
+  background-color: rgb(65, 196, 248);
+  height: 150px;
+  width: 285px;
+  border-radius: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.box14{
+  display: flex;
+  background-color: rgb(233, 70, 44);
+  height: 150px;
+  width: 285px;
+  border-radius: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.box15{
+  display: flex;
+  background-color: rgb(172, 185, 22);
+  height: 150px;
+  width: 285px;
+  border-radius: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.doda{
+    background-color: rgb(62, 64, 67);
+    border-radius: 30px;
+}
